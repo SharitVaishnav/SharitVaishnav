@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharitvaishnav&label=Profile%20views&color=0e75b6&style=flat" alt="sharitvaishnav" /> </p>
 
-- 🔭 I’m currently working on **ClinicTime**
+- 🔭 I’m currently working on **GitAgent**
 
-- 🌱 I’m currently learning **Django,Python**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 💬 Ask me about **MERN, Competitive Programming**
 
